@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyStoryApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="background">@color/yellow_story_hub</item>
+        <item name="colorAccent">@color/yellow_story_hub</item>
+        <item name="colorPrimaryDark">@color/yellow_story_hub</item>
+        <item name="colorPrimary">@color/yellow_story_hub</item>
+        <item name="fontFamily">@font/google_sans_bold</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.MyStoryApp" parent="Base.Theme.MyStoryApp" />
+
+    <style name="TextStyle"/>
+
+    <!-- Customize Font on Animation. -->
+
+    <style name="TextStyle.animationDesc">
+        <item name="fontFamily">@font/google_sans_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Customize Font on Login and Register Form. -->
+    <style name="TextStyle.WelcomeTitle">
+        <item name="fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextStyle.RegisLoginTitle">
+        <item name="fontFamily">@font/google_sans_bold</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextStyle.LoginRegisDesc">
+        <item name="fontFamily">@font/google_sans_regular</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextStyle.account">
+        <item name="fontFamily">@font/google_sans_regular</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Customize Font on HomePage. -->
+    <style name="TextStyle.TitleStory">
+        <item name="fontFamily">@font/google_sans_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextStyle.descStory">
+        <item name="fontFamily">@font/google_sans_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Customize Font on Add Story. -->
+    <style name="TextStyle.DescriptionBox">
+        <item name="fontFamily">@font/google_sans_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

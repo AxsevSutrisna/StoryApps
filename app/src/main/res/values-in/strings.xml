@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Pusat Cerita </string>
+
+    //Text Welcome Page
+    <string name="welcome_imageview"> Selamat Datang Tampilan Gambar </string>
+    <string name="btn_join"> Bergabung sekarang ! </string>
+    <string name="title_welcome_page"> Selamat Datang di Aplikasi StoryHub </string>
+    <string name="desc_welcome_text"> StoryHub adalah aplikasi untuk mengumpulkan cerita dari teman-teman Anda. </string>
+    <string name="desc_welcome_text1"> Bagikan cerita Anda dengan semua orang </string>
+
+    //Text Login and Regis Page
+    <string name="password_length"> Password tidak boleh kurang dari 8 karakter </string>
+    <string name="message_error"> Perhatian! </string>
+    <string name="text_ok"> Ok </string>
+    <string name="message_register_account"> Berhasil! </string>
+    <string name="bar_register_title"> Halaman Pendaftaran </string>
+    <string name="bar_login_title"> Halaman Masuk </string>
+    <string name="button_login"> Gabung </string>
+    <string name="button_register"> Daftar </string>
+    <string name="register_account"> Tidak punya akun? </string>
+    <string name="login_account"> Sudah memiliki akun? </string>
+    <string name="login_now"> Masuk sekarang! </string>
+    <string name="register_now"> Daftar sekarang! </string>
+    <string name="enter_password"> Masukan Kata Sandi </string>
+    <string name="enter_email"> Masukan Email </string>
+    <string name="enter_name"> Masukan Nama </string>
+    <string name="email"> Email </string>
+    <string name="password"> Kata Sandi </string>
+    <string name="name"> Nama </string>
+    <string name="invalid_email"> Email Tidak Valid </string>
+    <string name="title_login_page"> Masuk sekarang! </string>
+    <string name="desc_login"> Ayo, buat ceritamu sendiri dan bagikan dengan orang lain! </string>
+    <string name="login_imageview"> Masuk Tampilan Gambar </string>
+    <string name="title_signup_page"> Daftar Sekarang! </string>
+    <string name="desc_signup"> Apakah Anda siap untuk berbagi cerita Anda dengan orang lain? </string>
+    <string name="register_imageview"> Daftarkan Tampilan Gambar </string>
+
+    //Text Main Page
+    <string name="bar_main_title"> StoryHub </string>
+    <string name="load_story"> Berhasil! </string>
+    <string name="menu_language"> Bahasa </string>
+    <string name="menu_logout"> Keluar </string>
+    <string name="menu_maps"> Maps </string>
+    <string name="retry"> Ulangin </string>
+
+    //Text Detail Page
+    <string name="detail_imageview"> Tampilan Gambar Detil </string>
+    <string name="bar_detail_title"> Detil Cerita </string>
+    <string name="description"> Deskripsi </string>
+
+    //Text Add Story
+    <string name="bar_add_story_title"> Unggah cerita Anda </string>
+    <string name="permission_accept"> Permintaan akses Diterima! </string>
+    <string name="permission_denied"> Permintaan akses Ditolak! </string>
+    <string name="add_image"> Tambahkan Gambar </string>
+    <string name="camera"> Kamera </string>
+    <string name="gallery"> Galleri </string>
+    <string name="add_description"> Deskripsi </string>
+    <string name="upload"> Unggah </string>
+    <string name="empty_image_warning"> Gambar tidak ditemukan </string>
+    <string name="splash_screen_activity"> Layar Pembuka </string>
+    <string name="item_imageview"> Item ImageView Pengguna </string>
+    <string name="add_location"> Bagikan Lokasi Anda? </string>
+    <string name="accept_add_location"> Lokasi Ditambahkan </string>
+    <string name="denied_add_location"> Lokasi tidak Ditambahkan </string>
+
+    //Text Add Map
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="bar_title_maps"> Lokasi Story </string>
+    <string name="normal_type">Normal</string>
+    <string name="normal_map"> Dalam Map Normal </string>
+    <string name="satellite_type">Satellite</string>
+    <string name="satellite_map"> Is Satellite Map </string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="text_success"> Berhasil </string>
+
+</resources>

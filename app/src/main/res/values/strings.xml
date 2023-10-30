@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name"> StoryHub </string>
+
+    <string name="splash_screen_activity"> Splash Screen</string>
+
+    //Text Welcome Page
+    <string name="welcome_imageview"> Welcome ImageView </string>
+    <string name="btn_join"> Join Now !</string>
+    <string name="title_welcome_page"> Welcome To StoryHub Apps </string>
+    <string name="desc_welcome_text"> StoryHub is an application for collecting stories from your friends. </string>
+    <string name="desc_welcome_text1"> Share your story with everyone </string>
+
+    //Text Login and Regis Page
+    <string name="password_length"> Password must not be less than 8 characters </string>
+    <string name="message_error"> Attention! </string>
+    <string name="message_register_account"> Success! </string>
+    <string name="text_ok"> Ok </string>
+    <string name="bar_register_title"> Register Form </string>
+    <string name="bar_login_title"> Login Form </string>
+    <string name="button_login"> Login </string>
+    <string name="button_register"> Register </string>
+    <string name="register_account"> Don\'t have account? </string>
+    <string name="login_account"> already have an account? </string>
+    <string name="login_now"> Login Now! </string>
+    <string name="register_now"> SignUp Now! </string>
+    <string name="enter_password"> Enter Password </string>
+    <string name="enter_email"> Enter Email </string>
+    <string name="enter_name"> Enter Name </string>
+    <string name="email"> Email </string>
+    <string name="password"> Password </string>
+    <string name="name"> Name </string>
+    <string name="invalid_email"> Email Invalid </string>
+    <string name="title_login_page"> Login Now! </string>
+    <string name="desc_login"> Let\'s go , create your own story and share it with others ! </string>
+    <string name="login_imageview"> Login ImageView</string>
+    <string name="title_signup_page"> Register Now! </string>
+    <string name="desc_signup"> Are you ready to share your story with others ? </string>
+    <string name="register_imageview"> Register ImageView </string>
+
+    //Text Main Page
+    <string name="bar_main_title"> StoryHub </string>
+    <string name="load_story"> Success! </string>
+    <string name="menu_logout"> Logout</string>
+    <string name="menu_language"> Language</string>
+    <string name="menu_maps"> Maps </string>
+    <string name="retry"> Retry </string>
+
+    //Text Detail Page
+    <string name="detail_imageview"> Detail ImageView</string>
+    <string name="bar_detail_title"> Detail Story </string>
+    <string name="description"> Description</string>
+
+    //Text Add Story Page
+    <string name="bar_add_story_title"> Upload Your story</string>
+    <string name="permission_accept"> Access request is Accepted !</string>
+    <string name="permission_denied"> Access request Denied !</string>
+    <string name="add_image"> Add Image</string>
+    <string name="camera"> Camera</string>
+    <string name="gallery"> Gallery</string>
+    <string name="add_description"> Description</string>
+    <string name="upload"> Upload</string>
+    <string name="empty_image_warning"> Not found image</string>
+    <string name="item_imageview"> Item ImageView User</string>
+    <string name="add_location"> Share Your Location? </string>
+    <string name="accept_add_location"> Location Added </string>
+    <string name="denied_add_location"> Location not Added </string>
+
+    //Text Add Map
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="bar_title_maps"> Story Location </string>
+    <string name="normal_type">Normal</string>
+    <string name="normal_map"> Is Normal Map </string>
+    <string name="satellite_type">Satellite</string>
+    <string name="satellite_map"> Is Satellite Map </string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="text_success"> Success </string>
+</resources>
